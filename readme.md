@@ -42,13 +42,13 @@ docker-compose up
 
 ### Code Contributors
 
-Dieses Projekt existiert dank aller Menschen, die dazu beitragen. 
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 
 <a href="https://github.com/weg-li/weg-li/graphs/contributors"><img src="https://opencollective.com/weg-li/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
-Werden Sie ein finanzieller Spender und helfen Sie uns, unsere Gemeinschaft zu erhalten. [[Beitragen](https://opencollective.com/weg-li/contribute)]
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/weg-li/contribute)]
 
 #### Individuals
 
@@ -56,11 +56,12 @@ Werden Sie ein finanzieller Spender und helfen Sie uns, unsere Gemeinschaft zu e
 
 #### Organizations
 
-Unterstützen Sie dieses Projekt mit Ihrer Organisation. Ihr Logo wird hier mit einem Link zu Ihrer Website angezeigt.[[Beitragen](https://opencollective.com/weg-li/contribute)]
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/weg-li/contribute)]
 
 <a href="https://opencollective.com/weg-li/organization/0/website"><img src="https://opencollective.com/weg-li/organization/0/avatar.svg"></a>
 
 
+<a href="https://github.com/weg-li/weg-li/graphs/contributors"><img src="https://opencollective.com/weg-li/contributors.svg?width=890&button=false" /></a>
 
 ## License
 
